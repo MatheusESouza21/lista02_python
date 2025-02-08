@@ -3,4 +3,4 @@ dias = int(input("Escreva uma quantidade de dias: "))
 horas =  dias * 24
 minutos = horas * 60
 segundos = minutos * 60
-print(dias, "equivalem",horas, "horas, ",minutos, "minutos e",segundos, "segundos.")
+print(dias, "equivalem",horas,"horas, ",minutos, "minutos e",segundos, "segundos.")
